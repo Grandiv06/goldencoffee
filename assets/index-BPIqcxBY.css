@@ -2084,7 +2084,7 @@
     background-image: radial-gradient(var(--tw-gradient-stops));
   }
   .bg-\[url\(\/public\/images\/headerBgMobile\.webp\)\] {
-    background-image: url("./headerBgMobile-DmAw1WBC.webp");
+    background-image: url("../images/headerBgMobile.webp");
   }
   .bg-none {
     background-image: none;
@@ -3479,7 +3479,7 @@
       border-width: 2px;
     }
     .md\:bg-\[url\(\/public\/images\/headerBgDesktop\.webp\)\] {
-      background-image: url("./headerBgDesktop-BGeojeth.webp");
+      background-image: url("../images/headerBgDesktop.webp");
     }
     .md\:p-5 {
       padding: calc(var(--spacing) * 5);
