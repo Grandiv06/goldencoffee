@@ -3479,7 +3479,7 @@
       border-width: 2px;
     }
     .md\:bg-\[url\(\/dist\/assets\/headerBgDesktop-BGeojeth\.webp\)\] {
-      background-image: url("../images/headerBgDesktop.webp");
+      background-image: url("/dist/assets/headerBgDesktop-BGeojeth.webp");
     }
 
     .md\:p-5 {
