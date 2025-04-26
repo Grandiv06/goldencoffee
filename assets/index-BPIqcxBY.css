@@ -524,7 +524,7 @@
     left: 0;
   }
   .bg-mobile {
-    background-image: url("./headerBgMobile-DmAw1WBC.webp");
+    background-image: url("../images/headerBgMobile.webp");
   }
   .category-banner__item1 {
     background-color: #0000;
@@ -3494,7 +3494,7 @@
             background-image: url("/dist/assets/headerBgDesktop-BGeojeth.webp");
     } */
     .md\:bg-desktop {
-      background-image: url("./headerBgDesktop-BGeojeth.webp");
+      background-image: url("../images/headerBgDesktop.webp");
     }
     .md\:p-5 {
       padding: calc(var(--spacing) * 5);
