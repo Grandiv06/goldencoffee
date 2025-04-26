@@ -523,6 +523,9 @@
     bottom: 0;
     left: 0;
   }
+  .bg-mobile {
+    background-image: url("./headerBgMobile-DmAw1WBC.webp");
+  }
   .category-banner__item1 {
     background-color: #0000;
     background-image: linear-gradient(270deg, #0009 33.85%, #f3f4f61a),
@@ -2086,9 +2089,9 @@
   /* .bg-\[url\(\/asset\/images\/headerBgMobile\.webp\)\] {
     background-image: url("../images/headerBgMobile.webp");
   } */
-  .bg-\[url\(\/dist\/assets\/headerBgMobile-DmAw1WBC\.webp\)\] {
+  /* .bg-\[url\(\/dist\/assets\/headerBgMobile-DmAw1WBC\.webp\)\] {
     background-image: url("/dist/assets/headerBgMobile-DmAw1WBC.webp");
-  }
+  } */
   .bg-none {
     background-image: none;
   }
@@ -3487,8 +3490,11 @@
     /* .md\:bg-\[url\(\.\/assets\/headerBgDesktop-BGeojeth\.webp\)\] {
       background-image: url("./assets/headerBgDesktop-BGeojeth.webp");
     } */
-    .md\:bg-\[url\(\/dist\/assets\/headerBgDesktop-BGeojeth\.webp\)\] {
-      background-image: url("/dist/assets/headerBgDesktop-BGeojeth.webp");
+    /* .md\:bg-\[url\(\/dist\/assets\/headerBgDesktop-BGeojeth\.webp\)\] {
+            background-image: url("/dist/assets/headerBgDesktop-BGeojeth.webp");
+    } */
+    .md\:bg-desktop {
+      background-image: url("./headerBgDesktop-BGeojeth.webp");
     }
     .md\:p-5 {
       padding: calc(var(--spacing) * 5);
