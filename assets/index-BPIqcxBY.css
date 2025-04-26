@@ -2888,7 +2888,7 @@
   }
   .backdrop-blur-md {
     --tw-backdrop-blur: blur(var(--blur-md));
-    -webkit-backdrop-filter: var(--tw-backdrop-blur)
+    -webkit-backdrop-filter: var(--tw-backdrop-blur) /* Kar mikone okeye */
       var(--tw-backdrop-brightness) var(--tw-backdrop-contrast)
       var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate)
       var(--tw-backdrop-invert) var(--tw-backdrop-opacity)
