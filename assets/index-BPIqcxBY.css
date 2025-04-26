@@ -3478,10 +3478,12 @@
       border-style: var(--tw-border-style);
       border-width: 2px;
     }
-    .md\:bg-\[url\(\/dist\/assets\/headerBgDesktop-BGeojeth\.webp\)\] {
+    /* .md\:bg-\[url\(\/dist\/assets\/headerBgDesktop-BGeojeth\.webp\)\] {
       background-image: url("/dist/assets/headerBgDesktop-BGeojeth.webp");
+    } */
+    .md\:bg-\[url\(\.\/assets\/headerBgDesktop-BGeojeth\.webp\)\] {
+      background-image: url("./assets/headerBgDesktop-BGeojeth.webp");
     }
-
     .md\:p-5 {
       padding: calc(var(--spacing) * 5);
     }
