@@ -2027,9 +2027,11 @@
   .bg-\[var\(--my_variable\)\] {
     background-color: var(--my_variable);
   }
-    .bg-black-50 {
-        background-color: color-mix(in oklab, var(--color-black) 50%, transparent);
-    }
+  .bg-black\/50 {
+    background-color: rgba(0, 0, 0, 0.5);
+    backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
+  }
   .bg-current {
     background-color: currentColor;
   }
