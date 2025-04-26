@@ -2027,7 +2027,7 @@
   .bg-\[var\(--my_variable\)\] {
     background-color: var(--my_variable);
   }
-  .bg-black\/50 {
+  .bg-black_50 {
     background-color: rgba(0, 0, 0, 0.5);
   }
   .bg-current {
